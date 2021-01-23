@@ -145,6 +145,7 @@ const imageLightOptions: DropdownOption[] = [
     { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
+    { text: 'Burritos?', value: 'https://foodprint-cfn-deployments-d15fe.s3.us-east-2.amazonaws.com/Real-foodprint-snap-logo.svg'}
 ];
 
 const imageDarkOptions: DropdownOption[] = [
@@ -152,6 +153,7 @@ const imageDarkOptions: DropdownOption[] = [
     { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
+    { text: 'Burritos?', value: 'https://foodprint-cfn-deployments-d15fe.s3.us-east-2.amazonaws.com/Real-foodprint-snap-logo.svg'}
 ];
 
 const widthOptions = [
